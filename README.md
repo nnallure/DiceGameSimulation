@@ -14,6 +14,7 @@ This repository contains a Python script that simulates a simple dice game. The 
    - The **highest winnings** achieved in a single game.  
 
 ## Output Example  
+```bash
 Average amount won = $4.54
 Max amount won = $30.00
 
